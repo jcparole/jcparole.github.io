@@ -1,0 +1,87 @@
+I"�<p>Marketing site template for Jekyll. Browse through a <a href="https://proud-alligator.cloudvent.net/">live demo</a>.
+Increase the web presence of your brand with this configurable theme.</p>
+
+<p>Hydra was made by <a href="https://cloudcannon.com/">CloudCannon</a>, the Cloud CMS for Jekyll.</p>
+
+<p>Find more templates, themes and step-by-step Jekyll tutorials at <a href="https://learn.cloudcannon.com/">CloudCannon Academy</a>.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Contact form</li>
+  <li>Pre-built pages</li>
+  <li>Pre-styled components</li>
+  <li>Blog with pagination</li>
+  <li>Post category pages</li>
+  <li>Disqus comments for posts</li>
+  <li>Staff and author system</li>
+  <li>Configurable footer</li>
+  <li>Optimised for editing in <a href="https://cloudcannon.com/">CloudCannon</a></li>
+  <li>RSS/Atom feed</li>
+  <li>SEO tags</li>
+  <li>Google Analytics</li>
+</ul>
+
+<h2 id="setup">Setup</h2>
+
+<ol>
+  <li>Add your site and author details in <code class="language-plaintext highlighter-rouge">_config.yml</code>.</li>
+  <li>Add your Google Analytics and Disqus keys to <code class="language-plaintext highlighter-rouge">_config.yml</code>.</li>
+  <li>Get a workflow going to see your site’s output (with <a href="https://app.cloudcannon.com/">CloudCannon</a> or Jekyll locally).</li>
+</ol>
+
+<h2 id="develop">Develop</h2>
+
+<p>Hydra was built with <a href="https://jekyllrb.com/">Jekyll</a> version 3.3.1, but should support newer versions as well.</p>
+
+<p>Install the dependencies with <a href="https://bundler.io/">Bundler</a>:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bundle <span class="nb">install</span>
+</code></pre></div></div>
+
+<p>Run <code class="language-plaintext highlighter-rouge">jekyll</code> commands through Bundler to ensure you’re using the right versions:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bundle <span class="nb">exec </span>jekyll serve
+</code></pre></div></div>
+
+<h2 id="editing">Editing</h2>
+
+<p>Hydra is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.</p>
+
+<h3 id="posts">Posts</h3>
+
+<ul>
+  <li>Add, update or remove a post in the <em>Posts</em> collection.</li>
+  <li>The <strong>Staff Author</strong> field links to members in the <strong>Staff</strong> collection.</li>
+  <li>Documentation pages are organised in the navigation by category, with URLs based on the path inside the <code class="language-plaintext highlighter-rouge">_docs</code> folder.</li>
+  <li>Change the defaults when new posts are created in <code class="language-plaintext highlighter-rouge">_posts/_defaults.md</code>.</li>
+</ul>
+
+<h3 id="contact-form">Contact Form</h3>
+
+<ul>
+  <li>Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. <a href="https://formspree.io/">FormSpree</a>).</li>
+  <li>Sends email to the address listed in company details.</li>
+</ul>
+
+<h3 id="staff">Staff</h3>
+
+<ul>
+  <li>Reused around the site to save multiple editing locations.</li>
+  <li>Add <code class="language-plaintext highlighter-rouge">excluded_in_search: true</code> to any documentation page’s front matter to exclude that page in the search results.</li>
+</ul>
+
+<h3 id="navigation">Navigation</h3>
+
+<ul>
+  <li>Exposed as a data file to give clients better access.</li>
+  <li>Set in the <em>Data</em> / <em>Navigation</em> section.</li>
+</ul>
+
+<h3 id="footer">Footer</h3>
+
+<ul>
+  <li>Exposed as a data file to give clients better access.</li>
+  <li>Set in the <em>Data</em> / <em>Footer</em> section.</li>
+</ul>
+:ET

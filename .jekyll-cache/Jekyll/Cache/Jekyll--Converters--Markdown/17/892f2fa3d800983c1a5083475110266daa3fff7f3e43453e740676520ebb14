@@ -1,0 +1,86 @@
+I"<p>Not for profit themed template for Jekyll. Browse through a <a href="https://clean-oryx.cloudvent.net/">live demo</a>.
+Increase the web presence of a not for profit or cause website with this configurable theme.</p>
+
+<p>CloudCannon was made by <a href="https://cloudcannon.com/">CloudCannon</a>, the Cloud CMS for Jekyll.</p>
+
+<p>Find more templates, themes and step-by-step Jekyll tutorials at <a href="https://learn.cloudcannon.com/">CloudCannon Academy</a>.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Pre-built pages</li>
+  <li>Pre-styled components</li>
+  <li>Configurable footer</li>
+  <li>Optimised for editing in <a href="https://cloudcannon.com/">CloudCannon</a></li>
+  <li>SEO tags</li>
+  <li>Google Analytics</li>
+  <li><a href="https://donorbox.org/">Donorbox</a></li>
+  <li><a href="https://mailchimp.com/">MailChimp</a></li>
+</ul>
+
+<h2 id="setup">Setup</h2>
+
+<ol>
+  <li>Add your site details in <code class="language-plaintext highlighter-rouge">_config.yml</code>.</li>
+  <li>Add your Google Analytics to <code class="language-plaintext highlighter-rouge">_config.yml</code>.</li>
+  <li>Get a workflow going to see your site’s output (with <a href="https://app.cloudcannon.com/">CloudCannon</a> or Jekyll locally).</li>
+</ol>
+
+<h2 id="develop">Develop</h2>
+
+<p>Cause was built with <a href="https://jekyllrb.com/">Jekyll</a> version 3.3.1, but should support newer versions as well.</p>
+
+<p>Install the dependencies with <a href="https://bundler.io/">Bundler</a>:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bundle <span class="nb">install</span>
+</code></pre></div></div>
+
+<p>Run <code class="language-plaintext highlighter-rouge">jekyll</code> commands through Bundler to ensure you’re using the right versions:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bundle <span class="nb">exec </span>jekyll serve
+</code></pre></div></div>
+
+<h2 id="editing">Editing</h2>
+
+<p>Cause is already optimised for updating pages, company details and footer elements in CloudCannon.</p>
+
+<h2 id="seo-tag">SEO Tag</h2>
+
+<p>This site uses the <a href="https://github.com/jekyll/jekyll-seo-tag">jekyll-seo-tag</a> plugin. You should at least set a title in front matter on each page. Have a look at the <a href="https://github.com/jekyll/jekyll-seo-tag">project page</a> for more options.</p>
+
+<h2 id="google-analytics">Google Analytics</h2>
+
+<p><a href="https://www.google.com/analytics/">Google Analytics</a> is a third party website analytics tool. To install:</p>
+<ol>
+  <li>Add your Google Analytics key to <code class="language-plaintext highlighter-rouge">_config.yml</code></li>
+  <li>Run your site in production <code class="language-plaintext highlighter-rouge">JEKYLL_ENV=production</code>. This is the default in CloudCannon and GitHub Pages.</li>
+</ol>
+
+<h2 id="donorbox">Donorbox</h2>
+
+<p><a href="https://donorbox.org/">Donorbox</a> is a third party embeddable donation form for websites. To install:</p>
+
+<ol>
+  <li>Set up a campaign on Donorbox</li>
+  <li>Copy the embed code from the Dashboard screen</li>
+  <li>Paste it into <code class="language-plaintext highlighter-rouge">donation_embed</code> in <code class="language-plaintext highlighter-rouge">_config.yml</code></li>
+</ol>
+
+<h2 id="mailchimp">Mailchimp</h2>
+
+<p><a href="https://mailchimp.com/">Mailchimp</a> is a third party embeddable newsletter for websites. To install:</p>
+
+<ol>
+  <li>Set up a campaign on Mailchimp</li>
+  <li>Find the embed code for the sign up form</li>
+  <li>Copy the <code class="language-plaintext highlighter-rouge">&lt;form&gt;</code>’s action url</li>
+  <li>Paste it into <code class="language-plaintext highlighter-rouge">newsletter_action</code> in <code class="language-plaintext highlighter-rouge">_config.yml</code></li>
+</ol>
+
+<h3 id="company-details">Company details</h3>
+
+<ul>
+  <li>Reused around the site to save multiple editing locations.</li>
+  <li>Set in the <em>Data</em> / <em>Company</em> section.</li>
+</ul>
+:ET

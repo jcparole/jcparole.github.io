@@ -1,0 +1,73 @@
+I"5<p>Product documentation template for Jekyll. Browse through a <a href="https://long-pig.cloudvent.net/">live demo</a>.
+Start documenting your product, application, service or website with this configurable theme.</p>
+
+<p>Edition was made by <a href="https://cloudcannon.com/">CloudCannon</a>, the Cloud CMS for Jekyll.</p>
+
+<p>Find more templates, themes and step-by-step Jekyll tutorials at <a href="https://learn.cloudcannon.com/">CloudCannon Academy</a>.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Two column layout</li>
+  <li>Full text search</li>
+  <li>Pre-styled components</li>
+  <li>Auto-generated navigation based on category</li>
+  <li>Optimised for editing in <a href="https://cloudcannon.com/">CloudCannon</a></li>
+  <li>Change log</li>
+  <li>RSS/Atom feed</li>
+  <li>SEO tags</li>
+  <li>Google Analytics</li>
+</ul>
+
+<h2 id="setup">Setup</h2>
+
+<ol>
+  <li>Add your site and author details in <code class="language-plaintext highlighter-rouge">_config.yml</code>.</li>
+  <li>Get a workflow going to see your site’s output (with <a href="https://app.cloudcannon.com/">CloudCannon</a> or Jekyll locally).</li>
+</ol>
+
+<h2 id="develop">Develop</h2>
+
+<p>Edition was built with <a href="https://jekyllrb.com/">Jekyll</a> version 3.3.1, but should support newer versions as well.</p>
+
+<p>Install the dependencies with <a href="https://bundler.io/">Bundler</a>:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bundle <span class="nb">install</span>
+</code></pre></div></div>
+
+<p>Run <code class="language-plaintext highlighter-rouge">jekyll</code> commands through Bundler to ensure you’re using the right versions:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bundle <span class="nb">exec </span>jekyll serve
+</code></pre></div></div>
+
+<h2 id="editing">Editing</h2>
+
+<p>Edition is already optimised for adding, updating and removing documentation pages in CloudCannon.</p>
+
+<h3 id="documentation-pages">Documentation pages</h3>
+
+<ul>
+  <li>Add, update or remove a documentation page in the <em>Documentation</em> collection.</li>
+  <li>Change the category of a documentation page to move it to another section in the navigation.</li>
+  <li>Documentation pages are organised in the navigation by category, with URLs based on the path inside the <code class="language-plaintext highlighter-rouge">_docs</code> folder.</li>
+</ul>
+
+<h3 id="change-log">Change log</h3>
+
+<ul>
+  <li>Add, update or remove change log entries from your posts.</li>
+  <li>Tag entries as minor or major in the front matter.</li>
+</ul>
+
+<h3 id="search">Search</h3>
+
+<ul>
+  <li>Add <code class="language-plaintext highlighter-rouge">excluded_in_search: true</code> to any documentation page’s front matter to exclude that page in the search results.</li>
+</ul>
+
+<h3 id="navigation">Navigation</h3>
+
+<ul>
+  <li>Change <code class="language-plaintext highlighter-rouge">site.show_full_navigation</code> to control all or only the current navigation group being open.</li>
+</ul>
+:ET

@@ -1,0 +1,74 @@
+I"<p>Event marketing template for Jekyll. Browse through a <a href="https://whispering-boat.cloudvent.net/">live demo</a>.
+Increase the web presence of your event with this configurable theme.</p>
+
+<p>CloudCannon was made by <a href="https://cloudcannon.com/">CloudCannon</a>, the Cloud CMS for Jekyll.</p>
+
+<p>Find more templates, themes and step-by-step Jekyll tutorials at <a href="https://learn.cloudcannon.com/">CloudCannon Academy</a>.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>Pre-built page</li>
+  <li>Pre-styled components</li>
+  <li>Optimised for editing in <a href="https://cloudcannon.com/">CloudCannon</a></li>
+  <li>SEO tags</li>
+  <li>Google Analytics</li>
+  <li><a href="https://www.eventbrite.com/">EventBrite</a></li>
+  <li>Contact Form</li>
+  <li>Featured</li>
+  <li>Image Gallery</li>
+</ul>
+
+<h2 id="setup">Setup</h2>
+
+<ol>
+  <li>Add your site details in <code class="language-plaintext highlighter-rouge">_config.yml</code>.</li>
+  <li>Add your Google Analytics to <code class="language-plaintext highlighter-rouge">_config.yml</code>.</li>
+  <li>Get a workflow going to see your site’s output (with <a href="https://app.cloudcannon.com/">CloudCannon</a> or Jekyll locally).</li>
+</ol>
+
+<h2 id="develop">Develop</h2>
+
+<p>Malt was built with <a href="https://jekyllrb.com/">Jekyll</a> version 3.3.1, but should support newer versions as well.</p>
+
+<p>Install the dependencies with <a href="https://bundler.io/">Bundler</a>:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bundle <span class="nb">install</span>
+</code></pre></div></div>
+
+<p>Run <code class="language-plaintext highlighter-rouge">jekyll</code> commands through Bundler to ensure you’re using the right versions:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bundle <span class="nb">exec </span>jekyll serve
+</code></pre></div></div>
+
+<h2 id="editing">Editing</h2>
+
+<p>Malt is already optimised for updating pages, company details and footer elements in CloudCannon.</p>
+
+<h2 id="seo-tag">SEO Tag</h2>
+
+<p>This site uses the <a href="https://github.com/jekyll/jekyll-seo-tag">jekyll-seo-tag</a> plugin. You should at least set a title in front matter on each page. Have a look at the <a href="https://github.com/jekyll/jekyll-seo-tag">project page</a> for more options.</p>
+
+<h2 id="google-analytics">Google Analytics</h2>
+
+<p><a href="https://www.google.com/analytics/">Google Analytics</a> is a third party website analytics tool. To install:</p>
+
+<ol>
+  <li>Add your Google Analytics key to <code class="language-plaintext highlighter-rouge">_config.yml</code>.</li>
+  <li>Run your site in production <code class="language-plaintext highlighter-rouge">JEKYLL_ENV=production</code> (the default for CloudCannon and GitHub Pages).</li>
+</ol>
+
+<h2 id="eventbrite">EventBrite</h2>
+
+<p><a href="https://www.eventbrite.com/">EventBrite</a> is a third party embeddable event module for websites. To install:</p>
+
+<ol>
+  <li>Create an event on EventBrite.</li>
+  <li>Copy the Ticket Form embed code from the Widgets menu item.</li>
+  <li>Paste it into <code class="language-plaintext highlighter-rouge">eventbrite_embed</code> in <code class="language-plaintext highlighter-rouge">_config.yml</code>.</li>
+</ol>
+
+<h2 id="image-gallery--featured">Image gallery / Featured</h2>
+
+<p>The image gallery is populated by a front matter array in <code class="language-plaintext highlighter-rouge">index.html</code>. To add items just copy the existing structure.</p>
+:ET
