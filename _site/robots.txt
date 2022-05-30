@@ -1,1 +1,1 @@
-Sitemap: https://teal-worm.cloudvent.net/sitemap.xml
+Sitemap: jcparole.github.io/sitemap.xml

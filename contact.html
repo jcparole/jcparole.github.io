@@ -1,39 +1,40 @@
 ---
 title: Contact
-heading: Get in touch today
-subtitle: We'd love to help your business.
-map:
-  latitude: -45.8787605
-  longitude: 170.5027976
-  address: "1 George Street, Dunedin, New Zealand"
-  zoom: 13
+heading: Contactez-nous! 
+subtitle: Nous serions contents de vous compter parmi nous :)
 ---
+#map:
+#  latitude: -45.8787605
+#  longitude: 170.5027976
+#  address: "1 George Street, Dunedin, New Zealand"
+#  zoom: 13
+
 
 <section class="diagonal">
 	<div class="container">
 		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-			<input type="hidden" name="_to" value="support@example.com" />
+			<input type="hidden" name="_to" value="jcparole@gmail.com" />
 			<input type="text" name="_gotcha" style="display: none;" />
 
 			<div class="halves">
 				<div>
-					<label for="name">First Name</label>
-					<input type="text" name="first-name" id="first-name" placeholder="John" />
+					<label for="name">Prénom</label>
+					<input type="text" name="first-name" id="first-name" placeholder="Marie" />
 				</div>
 
 				<div>
-					<label for="name">Last Name</label>
-					<input type="text" name="last-name" id="last-name" placeholder="Doe" />
+					<label for="name">Nom</label>
+					<input type="text" name="last-name" id="last-name" placeholder="Curie" />
 				</div>
 			</div>
 
 			<label for="email">Email Address</label>
-			<input type="email" name="email" id="email" placeholder="john@example.com" required />
+			<input type="email" name="email" id="email" placeholder="marie.curie@example.com" required />
 
 			<label for="message">Message</label>
-			<textarea name="message" id="message" placeholder="Hi There..."></textarea>
+			<textarea name="message" id="message" placeholder="Bonjour..."></textarea>
 
-			<input type="submit" value="Send Message" />
+			<input type="submit" value="Envoyer" />
 		</form>
 	</div>
 </section>
