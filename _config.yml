@@ -81,7 +81,17 @@ defaults:
     values:
       layout: "page"
   - scope:
+      path: "about.html"
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
       path: "index.html"
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "contact-success.html"
       type: "pages"
     values:
       layout: "default"

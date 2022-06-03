@@ -4,7 +4,7 @@ html, body { margin: 0; padding: 0; }
 
 body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-a { color: #FFA715; text-decoration: none; }
+a { color: #51C9D1; text-decoration: none; }
 
 a:hover { text-decoration: underline; }
 
@@ -48,19 +48,19 @@ section.diagonal, footer.diagonal { -webkit-transform: skewY(-5deg); -moz-transf
 
 section.diagonal > div, footer.diagonal > div { -webkit-transform: skewY(5deg); -moz-transform: skewY(5deg); -ms-transform: skewY(5deg); transform: skewY(5deg); }
 
-section.hero, footer.hero { color: #ffffff; background: #FFA715; text-align: left; margin-top: -100px; padding-top: 250px; }
+section.hero, footer.hero { color: #ffffff; background: #51C9D1; text-align: left; margin-top: -100px; padding-top: 250px; }
 
 section.hero h2, footer.hero h2, section.hero p, footer.hero p { max-width: 90%; }
 
-section.hero h2, footer.hero h2 { font-size: 3.5rem; }
+section.hero h2, footer.hero h2 { font-size: 3.5rem; color: #ffffff; }
 
-section.hero p, footer.hero p { font-size: 1.8rem; color: #fff; }
+section.hero p, footer.hero p { font-size: 1.8rem; color: #ffffff; }
 
 section.hero a:not(.button), footer.hero a:not(.button) { color: #ffffff; font-style: italic; }
 
 section.alternate, footer.alternate { background: #eee; }
 
-.button { padding: 13px 38px; border-radius: 3px; display: inline-block; color: #FFA715; text-decoration: none; cursor: pointer; margin: 20px 0 0 0; border: 1px solid #fff; background: #fff; text-decoration: none !important; }
+.button { padding: 13px 38px; border-radius: 3px; display: inline-block; color: #51C9D1; text-decoration: none; cursor: pointer; margin: 20px 0 0 0; border: 1px solid #fff; background: #fff; text-decoration: none !important; }
 
 .button:hover { background: rgba(255, 255, 255, 0.3); color: #fff; }
 
@@ -76,7 +76,7 @@ section.alternate, footer.alternate { background: #eee; }
 
 .image-grid { padding: 0; list-style: none; display: flex; flex-flow: wrap; text-align: center; margin: 0 -20px; }
 
-.image-grid li { padding: 0; box-sizing: border-box; width: 100%; position: relative; overflow: hidden; margin: 20px; border-radius: 5px; text-align: left; border: 1px solid #FFA715; line-height: 0; }
+.image-grid li { padding: 0; box-sizing: border-box; width: 100%; position: relative; overflow: hidden; margin: 20px; border-radius: 5px; text-align: left; border: 1px solid #51C9D1; line-height: 0; }
 
 @media (min-width: 450px) { .image-grid li { flex: 1 1 50%; } }
 
@@ -92,7 +92,7 @@ section.alternate, footer.alternate { background: #eee; }
 
 .image-grid .details { line-height: 1.2; position: absolute; bottom: 0; left: 0; right: 0; background: rgba(0, 0, 0, 0.5); padding: 20px; }
 
-.image-grid .name { font-size: 1.3rem; color: #FFA715; }
+.image-grid .name { font-size: 1.3rem; color: #51C9D1; }
 
 .image-grid .position { margin-top: 5px; color: #fff; }
 
@@ -140,9 +140,9 @@ section.map > div, footer.map > div { position: absolute; top: -200px; left: 0; 
 
 .blog-filter a:hover { color: #555; text-decoration: none; }
 
-input[type=submit] { color: #fff; text-decoration: none; padding: 20px 30px; border-radius: 3px; transition: 0.2s ease-in-out; border: 1px solid #FFA715; background: #FFA715; cursor: pointer; }
+input[type=submit] { color: #fff; text-decoration: none; padding: 20px 30px; border-radius: 3px; transition: 0.2s ease-in-out; border: 1px solid #51C9D1; background: #51C9D1; cursor: pointer; }
 
-input[type=submit]:hover { border: 1px solid #FFA715; background: #FFC461; }
+input[type=submit]:hover { border: 1px solid #51C9D1; background: #FFC461; }
 
 input[type=submit]:active { transform: translateY(1px); }
 
@@ -194,7 +194,7 @@ nav a:hover { color: #fff; }
 
 @media (min-width: 620px) { nav a:hover { border-bottom: 2px solid rgba(255, 255, 255, 0.6); display: block; padding: 10px; } }
 
-@media (min-width: 620px) { nav a.highlight { border: 1px #ccc solid; border-radius: 5px; } nav a.highlight:hover { background: #fff; color: #FFA715; } }
+@media (min-width: 620px) { nav a.highlight { border: 1px #ccc solid; border-radius: 5px; } nav a.highlight:hover { background: #fff; color: #51C9D1; } }
 
 nav a.active { color: #fff; }
 
