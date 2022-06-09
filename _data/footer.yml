@@ -12,10 +12,10 @@
       link: /contact/
 - title: Social
   links:
-    - name: Facebook
-      link: https://facebook.com/
-      social_icon: Facebook
-      new_window: true
+          #- name: Facebook
+          #link: https://facebook.com/
+          #social_icon: Facebook
+          #new_window: true
     - name: Twitter
       link: https://twitter.com/Groupe_JCParole/
       social_icon: Twitter

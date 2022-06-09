@@ -76,7 +76,7 @@ defaults:
           width: 600
           height: 600
   - scope:
-      path: ""
+      path: "contact.html"
       type: "pages"
     values:
       layout: "page"
@@ -94,7 +94,7 @@ defaults:
       path: "contact-success.html"
       type: "pages"
     values:
-      layout: "default"
+      layout: "page"
 
 # -----------
 # CloudCannon
