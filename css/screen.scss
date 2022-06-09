@@ -4,7 +4,7 @@
 $pattern: "{{ site.baseurl }}/images/pattern.png";
 $screenshot-buttons: "{{ site.baseurl }}/images/screenshot-buttons.svg";
 
-$brand-color: #51C9D1;
+$brand-color: #399ED4;
 $html-background-color: #222;
 $secondary-brand-color: #FFC461;
 $middle-gradient-color: mix($brand-color, $secondary-brand-color, 95%);
@@ -14,7 +14,8 @@ $tablet: "(min-width: 450px)";
 $mid-point: "(min-width: 620px)";
 $desktop: "(min-width: 768px)";
 
-$section-rotation: 5deg;
+$section-rotation: 3deg;
+$section-rotation-inverse: -3deg;
 
 @import "elements";
 @import "layout";

@@ -1,6 +1,6 @@
 ---
 name: Mathias Quillot 
-position: Membre actif
+position: Contributeur
 image_path: /images/pingouin.png
 twitter: QuillotMathias 
 ---

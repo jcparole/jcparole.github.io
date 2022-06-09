@@ -1,6 +1,6 @@
 ---
 name: Delphine Charuau  
-position: Membre active
+position: Contributrice
 image_path: /images/pingouin.png
 twitter: DCharuau 
 ---

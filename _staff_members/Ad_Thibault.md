@@ -1,6 +1,6 @@
 ---
 name: Thibault Bañeras Roux
-position: Membre actif
+position: Contributeur
 image_path: /images/thibault.jpg
 twitter: BanerasRoux 
 ---

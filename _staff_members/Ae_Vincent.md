@@ -1,6 +1,6 @@
 ---
 name: Vincent Martin 
-position: Membre actif
-image_path: /images/pingouin.png
+position: Contributeur
+image_path: /images/vincent.jpg
 twitter: V_P_Martin 
 ---

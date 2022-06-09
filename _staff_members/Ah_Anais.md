@@ -1,6 +1,6 @@
 ---
 name: Anaïs Chanclu
-position: Membre actif
+position: Contributrice
 image_path: /images/pingouin.png
 twitter: anaisaurus_ 
 ---

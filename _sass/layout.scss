@@ -55,7 +55,7 @@ header {
 }
 
 section {
-	padding: 150px 0;
+	padding: 40px 0;
 	background: #fff;
 	margin-top: -2px;
 
@@ -151,6 +151,7 @@ section {
 	}
 }
 
+
 .aligned-top {
 	align-items: flex-start;
 }
@@ -244,5 +245,9 @@ section {
 	&,
 	p {
 		color: #fefefe;
+	}
+	
+	li {
+		color: #ffffff;		
 	}
 }

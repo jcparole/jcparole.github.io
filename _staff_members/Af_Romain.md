@@ -1,6 +1,6 @@
 ---
 name: Romain Jacquet 
-position: Membre actif
+position: Contributeur
 image_path: /images/pingouin.png
 twitter: 
 ---
