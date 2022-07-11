@@ -76,7 +76,7 @@ section.alternate, footer.alternate { background: #eee; }
 
 .image-grid { padding: 0; list-style: none; display: flex; flex-flow: wrap; text-align: center; margin: 0 -20px; }
 
-.image-grid li { padding: 0; box-sizing: border-box; width: 100%; position: relative; overflow: hidden; margin: 20px; border-radius: 5px; text-align: left; border: 1px solid #399ED4; line-height: 0; }
+.image-grid li { padding: 0; box-sizing: border-box; width: 100%; position: relative; overflow: hidden; margin: 20px; border-radius: 5px; text-align: left; line-height: 0; }
 
 @media (min-width: 450px) { .image-grid li { flex: 1 1 50%; } }
 
@@ -95,6 +95,8 @@ section.alternate, footer.alternate { background: #eee; }
 .image-grid .name { font-size: 1.3rem; color: #399ED4; }
 
 .image-grid .position { margin-top: 5px; color: #fff; }
+
+.image-grid .description { font-size: 1.3rem; color: #399ED4; }
 
 .image-grid .filler { border: 0; }
 

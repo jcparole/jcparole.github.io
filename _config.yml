@@ -41,6 +41,7 @@ plugins:
   - "jekyll-seo-tag"
   - "jekyll-paginate"
   - "jekyll-archives"
+  - "jekyll-google-calendar"
 
 exclude:
   - Gemfile
@@ -109,3 +110,14 @@ _select_data:
     - Twitter
     - YouTube
     - RSS
+
+# ----------------
+# events google calendar
+gcalendar: 
+  key_file: site-web-jcep-5f3da604791c.json
+  calendars:
+    - id: jcparole@gmail.com
+      directory: events
+      layout: gc_events
+      date_format: "%d-%m-%Y"
+      look_ahead: 365

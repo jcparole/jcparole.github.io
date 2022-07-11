@@ -173,7 +173,6 @@ section {
 		margin: 20px;
 		border-radius: 5px;
 		text-align: left;
-		border: 1px solid $brand-color;
 		line-height: 0;
 
 		@media #{$tablet} {
@@ -224,6 +223,11 @@ section {
 	.position {
 		margin-top: 5px;
 		color: #fff;
+	}
+	
+	.description {
+		font-size: 1.3rem;
+		color: $brand-color;
 	}
 
 	.filler {
