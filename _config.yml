@@ -96,6 +96,11 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+  - scope:
+      path: "calendrier.html"
+      type: "pages"
+    values:
+      layout: "default"
 
 # -----------
 # CloudCannon
@@ -116,8 +121,8 @@ _select_data:
 gcalendar: 
   key_file: site-web-jcep-5f3da604791c.json
   calendars:
-    - id: jcparole@gmail.com
-      directory: events
-      layout: gc_events
+    - id: 1260igbb8qoqbj0n8o2r889dtg@group.calendar.google.com
+      directory: "_events"
+      layout: "default"
       date_format: "%d-%m-%Y"
       look_ahead: 365
