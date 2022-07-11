@@ -97,7 +97,7 @@ defaults:
     values:
       layout: "page"
   - scope:
-      path: "calendrier.html"
+      path: "evenements.html"
       type: "pages"
     values:
       layout: "default"

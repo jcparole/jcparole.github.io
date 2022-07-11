@@ -10,6 +10,8 @@
       link: /about/
     - name: Contact
       link: /contact/
+    - name: Evénements
+      link: /evenements/
 - title: Social
   links:
           #- name: Facebook
