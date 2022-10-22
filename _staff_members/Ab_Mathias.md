@@ -1,6 +1,6 @@
 ---
 name: Mathias Quillot 
-position: Contributeur
+position: Co-coordinateur
 image_path: /images/mathias.jpg
 twitter: QuillotMathias 
 ---
