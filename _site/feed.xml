@@ -1,74 +1,126 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-07-11T14:46:35+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Groupe des jeunes chercheurs en parole</title><subtitle>Site du groupe Jeunes Chercheurs en Parole</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">The history of marketing</title><link href="http://localhost:4000/marketing/2016/08/12/the-history-of-marketing/" rel="alternate" type="text/html" title="The history of marketing" /><published>2016-08-12T00:00:00+00:00</published><updated>2016-08-12T00:00:00+00:00</updated><id>http://localhost:4000/marketing/2016/08/12/the-history-of-marketing</id><content type="html" xml:base="http://localhost:4000/marketing/2016/08/12/the-history-of-marketing/">&lt;p&gt;The beginnings of digital marketing technology can be traced back to the 1980’s, when computers became sophisticated enough to store huge volumes of customer information. For a brief moment, no one knew what would happen in digital marketing, but by the 90’s it all became clear.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-22T16:54:22+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Groupe des jeunes chercheurs en parole</title><subtitle>Site du groupe Jeunes Chercheurs en Parole</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><entry><title type="html">Newsletter n°1 - Octobre 2022</title><link href="http://localhost:4000/newsletter/2022/10/01/newsletter-1/" rel="alternate" type="text/html" title="Newsletter n°1 - Octobre 2022" /><published>2022-10-01T00:00:00+00:00</published><updated>2022-10-01T00:00:00+00:00</updated><id>http://localhost:4000/newsletter/2022/10/01/newsletter-1</id><content type="html" xml:base="http://localhost:4000/newsletter/2022/10/01/newsletter-1/">&lt;p&gt;&lt;em&gt;Cette newsletter mensuelle est une initiative du groupe JCeP (Jeunes Chercheurs en Parole). Elle a pour but de promouvoir l’activité du groupe et des jeunes chercheurs en parole francophones, mais aussi de partager les événements de la communauté Parole auxquels ils sont invités à participer (appels à communication, expérimentations…). Nous y rassemblons des informations trouvées sur notre serveur Discord et la liste Parole… mais pas que! Vous pouvez en effet nous partager vos actus directement à &lt;a href=&quot;mailto:jcparole@gmail.com&quot;&gt;jcparole@gmail.com&lt;/a&gt;. Nous serons heureux de les relayer.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://unsplash.it/960/600?image=133&quot; alt=&quot;Cars&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;-faits-marquants&quot;&gt;🎉 Faits marquants&lt;/h1&gt;
 
-&lt;p&gt;The history of marketing is to a large extent a product of Internet’s history as markets have adapted to keep abreast of changes and keep up with the way the major Search Engines rank web pages. Major changes include, in chronological order:&lt;/p&gt;
+&lt;h3 id=&quot;ils-sont-docteurs-&quot;&gt;Ils sont docteurs !&lt;/h3&gt;
 
-&lt;p&gt;1991- Gopher: A network protocol, one of the very first query and search tools. Gopher was widely used for a couple of years, but usage has now fallen off, with barely 100 Gopher servers now indexed. 2. 1994- Launch of Yahoo, which was formerly known as “Jerry´s Guide to the World Wide Web” after one of its founders, Jerry Yang. Yahoo received in its first year over 1 million hits.&lt;/p&gt;
+&lt;p&gt;Félicitations à &lt;strong&gt;Annalisa Paroni&lt;/strong&gt; (GIPSA-lab) pour avoir soutenu sa thèse “&lt;em&gt;Human Beatboxing: pushing the boundaries of human voice production&lt;/em&gt;” le 5 Septembre 2022. (Dir.: Nathalie Henrich Bernardoni et Hélène Loeuvenbruck)&lt;/p&gt;
 
-&lt;h2 id=&quot;academic-studies&quot;&gt;Academic studies&lt;/h2&gt;
+&lt;p&gt;Bravo à &lt;strong&gt;Mathias Quillot&lt;/strong&gt; (LIA) pour avoir soutenu avec succès sa thèse le 27 Septembre 2022. Celle-ci s’intitule “&lt;em&gt;Recommandation de la voix par apprentissage profond.&lt;/em&gt; (Dir.: Jean-François Bonastre)&lt;/p&gt;
 
-&lt;p&gt;The study of the history of marketing as an academic field emerged only recently. Controversies and disputes abound in the field. The publication in 1976 of the book The History of Marketing Thought, by Robert Bartels marks a turning-point in marketing thought. Since then, academics specializing in marketing decided to imitate economics, distinguishing theory and practice. Two different fields of study emerged:&lt;/p&gt;
+&lt;p&gt;Félicitations à &lt;strong&gt;Vincent Roger&lt;/strong&gt; (IRIT) pour la soutenance de sa thèse “&lt;em&gt;Modélisation de l’indice de sévérité du trouble de la parole à l’aide de méthodes d’apprentissage profond : d’une modélisation à partir de quelques exemples à un apprentissage auto-supervisé via une mesure entropique&lt;/em&gt;”, le 29 Septembre. (Dir.: Julien Pinquier). A voir ou revoir: &lt;a href=&quot;https://www.youtube.com/watch?v=yvYZDBKdzB8&quot;&gt;https://www.youtube.com/watch?v=yvYZDBKdzB8&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;the history of marketing thought, giving theoretical accounts
-marketing history, focusing on the history of marketing practice
-This division parallels the distinction between the history of economic thought and economic history.&lt;/p&gt;
+&lt;h1 id=&quot;️évènements-à-venir&quot;&gt;🗣️Évènements à venir&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://unsplash.it/960/600?image=175&quot; alt=&quot;Clock&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;sessions-présente-tes-travaux-du-groupe-jcep&quot;&gt;Sessions “Présente tes travaux” du groupe JCeP&lt;/h3&gt;
 
-&lt;p&gt;Practitioners of the history of marketing thought note that both practitioners and academics know relatively little about the field.[citation needed] But history has significance for academics because it helps to define the baselines upon which they can recognize change and evolve marketing theory.On the other hand, proponents of marketing history argue that one cannot fully compare the marketing field with economics and hence suggest the impracticality of divorcing theory and practice. First, marketing scholars seldom engage in the practice of marketing as much as economists engage in the development and execution of public policies. Second, business people innovate in the marketing field, and the history of marketing will remain incomplete if one dissociates academia from practitioners.&lt;/p&gt;
+&lt;p&gt;Ce mois-ci, ce sont Colleen Beaumard (LaBRI) et Lucie Van Bogaert (LPNC) qui viendront nous présenter leurs travaux. 
+🧑‍🎓 Événement réservé aux JC!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://unsplash.it/960/600?image=766&quot; alt=&quot;Coffee&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;📍&lt;a href=&quot;https://univ-grenoble-alpes-fr.zoom.us/j/94469357154?pwd=TTVKS1dTV1NzUmJsNndoUUhmcWxNZz09&quot;&gt;https://univ-grenoble-alpes-fr.zoom.us/j/94469357154?pwd=TTVKS1dTV1NzUmJsNndoUUhmcWxNZz09&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The following sections discuss both approaches to the history of marketing, closing with a debate about the standard chronology of marketing, a widely known hypothesis about the history of marketing, but one that historians in the marketing field have challenged.&lt;/p&gt;
+&lt;p&gt;📅 le Jeudi 20 Octobre 2022 de 10h30 à 11h30&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/History_of_marketing&quot;&gt;source&lt;/a&gt;: Wikipedia&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="marketing" /><summary type="html">The beginnings of digital marketing technology can be traced back to the 1980’s, when computers became sophisticated enough to store huge volumes of customer information. For a brief moment, no one knew what would happen in digital marketing, but by the 90’s it all became clear.</summary></entry><entry><title type="html">Definition of sales</title><link href="http://localhost:4000/sales/2016/08/06/definition-of-sales/" rel="alternate" type="text/html" title="Definition of sales" /><published>2016-08-06T00:00:00+00:00</published><updated>2016-08-06T00:00:00+00:00</updated><id>http://localhost:4000/sales/2016/08/06/definition-of-sales</id><content type="html" xml:base="http://localhost:4000/sales/2016/08/06/definition-of-sales/">&lt;p&gt;A person or organization expressing an interest in acquiring the offered item of value is referred to as a potential buyer, prospective customer or prospect. Buying and selling are understood to be two sides of the same “coin” or transaction. Both seller and buyer engage in a process of negotiation to consummate the exchange of values. The exchange, or selling, process has implied rules and identifiable stages.&lt;/p&gt;
+&lt;h3 id=&quot;séminaires&quot;&gt;Séminaires&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://unsplash.it/960/600?image=593&quot; alt=&quot;Tiger&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Vincent Martin (LaBRI) sera au séminaire mensuel du LIA pour parler de ses travaux sur la conception de biomarqueurs vocaux de la somnolence et des troubles mentaux.
+ℹ️ Ouvert à tous&lt;/p&gt;
 
-&lt;p&gt;It is implied that the selling process will proceed fairly and ethically so that the parties end up nearly equally rewarded. The stages of selling, and buying, involve getting acquainted, assessing each party’s need for the other’s item of value, and determining if the values to be exchanged are equivalent or nearly so, or, in buyer’s terms, “worth the price.” Sometimes, sellers have to use their own experiences when selling products with appropriate discounts.&lt;/p&gt;
+&lt;p&gt;📍 sur place&lt;/p&gt;
 
-&lt;h2 id=&quot;management-point-of-view&quot;&gt;Management point of view&lt;/h2&gt;
+&lt;p&gt;📅 le Mercredi 27 Octobre 2022 à 12h&lt;/p&gt;
 
-&lt;p&gt;From a management viewpoint it is thought of as a part of marketing, although the skills required are different. Sales often forms a separate grouping in a corporate structure, employing separate specialist operatives known as salespersons (singular: salesperson). Selling is considered by many to be a sort of persuading “art”. Contrary to popular belief, the methodological approach of selling refers to a systematic process of repetitive and measurable milestones, by which a salesman relates his or her offering of a product or service in return enabling the buyer to achieve their goal in an economic way. While the sales process refers to a systematic process of repetitive and measurable milestones, the definition of the selling is somewhat ambiguous due to the close nature of advertising, promotion, public relations, and direct marketing.&lt;/p&gt;
+&lt;h3 id=&quot;rencontres-scientifiques&quot;&gt;Rencontres scientifiques&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://unsplash.it/960/600?image=672&quot; alt=&quot;Bus&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Les Journées de Phonétique Clinique (JPC) 2023 auront lieu cette année à Toulouse du &lt;strong&gt;15 au 17 juin 2023.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Selling is the profession-wide term, much like marketing defines a profession. Recently, attempts have been made to clearly understand who is in the sales profession, and who is not. There are many articles looking at marketing, advertising, promotions, and even public relations as ways to create a unique transaction.&lt;/p&gt;
+&lt;h1 id=&quot;-ils-ont-besoin-de-vous-&quot;&gt;🆘 Ils ont besoin de vous !&lt;/h1&gt;
 
-&lt;h2 id=&quot;common-terms&quot;&gt;Common terms&lt;/h2&gt;
+&lt;h3 id=&quot;lia-avec-still-débat-ia-sur-twitch&quot;&gt;“&lt;strong&gt;L’IA avec Still&lt;/strong&gt;”, débat IA sur Twitch&lt;/h3&gt;
 
-&lt;p&gt;Two common terms used to describe a salesperson are “Farmer” and “Hunter”. The reality is that most professional sales people have a little of both. A hunter is often associated with aggressive personalities who use aggressive sales technique. In terms of sales methodology a hunter refers to a person whose focus is on bringing in and closing deals. This process is called “sales capturing”. An example is a commodity sale such as a long distance sales person, shoe sales person and to a degree a car sales person. Their job is to find and convert buyers. A sales farmer is someone who creates sales demand by activities that directly influence and alter the buying process.&lt;/p&gt;
+&lt;p&gt;Mathias (a.k.a. StillinBed) recherche des volontaires pour discuter avec lui de ses travaux sur l’IA au sens large. Masters, doctorantes et doctorants en début de thèse accepté.e.s 😉&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://unsplash.it/960/600?image=1027&quot; alt=&quot;Person&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;📍sur la chaîne Twitch de StillinBed&lt;/p&gt;
 
-&lt;h2 id=&quot;systems-approach&quot;&gt;Systems approach&lt;/h2&gt;
+&lt;p&gt;📅 le vendredi 21 Octobre, à 21h00&lt;/p&gt;
 
-&lt;p&gt;Many believe that the focus of selling is on the human agents involved in the exchange between buyer and seller. Effective selling also requires a systems approach, at minimum involving roles that sell, enable selling, and develop sales capabilities. Selling also involves salespeople who possess a specific set of sales skills and the knowledge required to facilitate the exchange of value between buyers and sellers that is unique from marketing, advertising, etc.&lt;/p&gt;
+&lt;p&gt;📨 remplir ce &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSer-ZpmN9I0Jiy3JRh4pOM2OQMPIKBvU4Vfuj76rDkoC4AoiA/viewform&quot;&gt;formulaire&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://unsplash.it/960/600?image=601&quot; alt=&quot;Plant&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;recherche-oratrices-et-orateurs-sur-les-aspects-environnementaux-de-la-recherche&quot;&gt;Recherche oratrices et orateurs sur les aspects environnementaux de la recherche&lt;/h3&gt;
 
-&lt;p&gt;Within these three tenets, the following definition of professional selling is offered by the American Society for Training and Development (ASTD):&lt;/p&gt;
+&lt;p&gt;La chaire Green AI de l’UPPA est à la recherche d’une oratrice ou d’un orateur sur l’impact environnemental de la recherche. Vous travaillez et/ou poursuivez des réflexions sur ce sujet dans vos recherches ? N’hésitez pas à contacter Nicolas !&lt;/p&gt;
 
-&lt;p&gt;“The holistic business system required to effectively develop, manage, enable, and execute a mutually beneficial, interpersonal exchange of goods and/or services for equitable value.”
-Team selling is one way to influence sales. Team selling is “a group of people representing the sales department and other functional areas in the firm, such as finance, production, and research and development”. (Spiro) Team selling came about in the 1990s through total quality management (TQM). TQM occurs when companies work to improve their customer satisfaction by constantly improving all of their operations.&lt;/p&gt;
+&lt;p&gt;📍à l’UPPA, ou sur Zoom [mettre le lien zoom]&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Sales&quot;&gt;source&lt;/a&gt;: Wikipedia&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="sales" /><summary type="html">A person or organization expressing an interest in acquiring the offered item of value is referred to as a potential buyer, prospective customer or prospect. Buying and selling are understood to be two sides of the same “coin” or transaction. Both seller and buyer engage in a process of negotiation to consummate the exchange of values. The exchange, or selling, process has implied rules and identifiable stages.</summary></entry><entry><title type="html">Effective upselling techniques</title><link href="http://localhost:4000/sales/tips/2016/07/28/effective-upselling-techniques/" rel="alternate" type="text/html" title="Effective upselling techniques" /><published>2016-07-28T00:00:00+00:00</published><updated>2016-07-28T00:00:00+00:00</updated><id>http://localhost:4000/sales/tips/2016/07/28/effective-upselling-techniques</id><content type="html" xml:base="http://localhost:4000/sales/tips/2016/07/28/effective-upselling-techniques/">&lt;p&gt;Upselling is a sales technique whereby a seller induces the customer to purchase more expensive items, upgrades or other add-ons in an attempt to make a more profitable sale. While it usually involves marketing more profitable services or products, it can be simply exposing the customer to other options that were perhaps not considered.&lt;/p&gt;
+&lt;p&gt;📅 ~1h, le lundi matin&lt;/p&gt;
 
-&lt;p&gt;In practice, large businesses usually combine upselling and cross-selling to maximize profit. In doing so, an organization must ensure that its relationship with the client is not disrupted.&lt;/p&gt;
+&lt;p&gt;📨 &lt;a href=&quot;mailto:nicolas.tirel@univ-pau.fr&quot;&gt;nicolas.tirel@univ-pau.fr&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://unsplash.it/960/600?image=590&quot; alt=&quot;Seaside City&quot; /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;-appels-à-communication&quot;&gt;📄 Appels à communication&lt;/h1&gt;
 
-&lt;p&gt;In restaurants and other similar settings, upselling is commonplace and an accepted form of business. In other businesses (e.g. car sales), the customer’s perception of the attempted upsell can be viewed negatively and impact the desired result.&lt;/p&gt;
+&lt;h3 id=&quot;advances-in-quantitative-laryngology-voice-and-speech&quot;&gt;Advances in Quantitative Laryngology, Voice and Speech&lt;/h3&gt;
 
-&lt;h2 id=&quot;why-should-you-upsell&quot;&gt;Why should you upsell?&lt;/h2&gt;
+&lt;p&gt;La soumission des résumés pour la conférence Advances in Quantitative Laryngology, Voice and Speech est ouverte !&lt;/p&gt;
 
-&lt;p&gt;Upselling is a common practice for service providers that offer different service classes such as airlines (cf. Bohutinsky, 1990). According to “the journal of business and industrial marketing; written collaboratively by Michael J, Sheehan and Paul R, Prabhaker “It is five times more expensive to get a new customer as it is to hold onto a current one.” Selling to a new customer would mean having to start the sales process from the very beginning thus having to establish a new relationship with a different customer. This can be time consuming and often not very effective.&lt;/p&gt;
+&lt;p&gt;📍 Mayo Clinic Hospital, Phoenix, AZ, USA&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://unsplash.it/960/600?image=1043&quot; alt=&quot;Landscape&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;📅 30 Mars - 1er Avril 2023&lt;/p&gt;
 
-&lt;h2 id=&quot;the-benefits&quot;&gt;The benefits&lt;/h2&gt;
+&lt;p&gt;🌐 &lt;a href=&quot;https://ce.mayo.edu/otorhinolaryngology/content/15th-international-conference-advances-quantitative-laryngology-voice-and-speech-research&quot;&gt;https://ce.mayo.edu/otorhinolaryngology/content/15th-international-conference-advances-quantitative-laryngology-voice-and-speech-research&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Upselling to a customer that you have already built a rapport with, means that they are more likely to buy from you, listen to your suggestions and opinions and trust you. Selling to the same customer can lead to loyal customers and repeat sales. Upselling brings up the profit that the business makes and the value of the sale. However it is important to understand that although your main objective is to bring up revenue and increase the amount of the sale, a customers experience and their time with you influences future decisions that they make. An upsell can be beneficial to both the seller and the consumer if relevant products are being shown to the customer. For instance, if you had a strict budget of $20,000 for a car, you would not want to be sold a car for twice the amount.&lt;/p&gt;
+&lt;h1 id=&quot;-jobs&quot;&gt;💼 Jobs&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Upselling&quot;&gt;source&lt;/a&gt;: Wikipedia&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="sales" /><category term="tips" /><summary type="html">Upselling is a sales technique whereby a seller induces the customer to purchase more expensive items, upgrades or other add-ons in an attempt to make a more profitable sale. While it usually involves marketing more profitable services or products, it can be simply exposing the customer to other options that were perhaps not considered.</summary></entry></feed>
+&lt;h3 id=&quot;these-conduction-osseuse-dans-la-parole-la-musique-et-le-chant&quot;&gt;[THESE] Conduction osseuse dans la parole, la musique et le chant&lt;/h3&gt;
+
+&lt;p&gt;La thèse proposée par le GIPSA lab (Grenoble) sur le rôle de la conduction osseuse dans le contrôle de la voix (parole, chant) et de l’expression musicale, sous la direction de Nathalie HENRICH BERNARDONI et  Pierre BARADUC, n’a toujours pas été pourvue !&lt;/p&gt;
+
+&lt;p&gt;📍 Gipsa lab&lt;/p&gt;
+
+&lt;p&gt;ℹ️ &lt;a href=&quot;http://www.gipsa-lab.grenoble-inp.fr/transfert/propositions/1_2022-07-05_offretheseINCEPTION.pdf&quot;&gt;http://www.gipsa-lab.grenoble-inp.fr/transfert/propositions/1_2022-07-05_offretheseINCEPTION.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;📨 &lt;a href=&quot;https://t.co/o80oOJ5RpJ&quot;&gt;emploi.cnrs.fr/Offres/Doctorant/UMR5216-CHRROM-021/Default.aspx&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;postdocingé-speech-processing-machine-listening-and-mir-solutions-for-ai-powered-hearables&quot;&gt;[Postdoc/Ingé] Speech processing, machine listening and MIR solutions for AI-powered hearables&lt;/h3&gt;
+
+&lt;p&gt;📍 ADASP (Telecom Paris)&lt;/p&gt;
+
+&lt;p&gt;ℹ️ &lt;a href=&quot;https://adasp.telecom-paris.fr/resources/2022-05-03-audible-positions/&quot;&gt;https://adasp.telecom-paris.fr/resources/2022-05-03-audible-positions/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;postdoc-identification-dexpressions-genrées-par-des-représentations-vectorielles-sur-un-corpus-de-transcription-de-la-parole-dans-les-médias&quot;&gt;[Postdoc] Identification d’expressions genrées par des représentations vectorielles sur un corpus de transcription de la parole dans les médias&lt;/h3&gt;
+
+&lt;p&gt;📍 LISN (St-Aubin)&lt;/p&gt;
+
+&lt;p&gt;📅 1 an à partir de Décembre 2022&lt;/p&gt;
+
+&lt;p&gt;📨 CV, lettres de recommandation, résumé d’une page de recherche, au moins 3 publications, rapport de pré-soutenance, à envoyer à &lt;a href=&quot;mailto:fabien.ringeval@imag.fr&quot;&gt;fabien.ringeval@imag.fr&lt;/a&gt; et &lt;a href=&quot;mailto:francois.portet@imag.fr&quot;&gt;francois.portet@imag.fr&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;publications-de-jeunes-chercheurs&quot;&gt;📄Publications de jeunes chercheurs&lt;/h1&gt;
+
+&lt;h3 id=&quot;typologie-de-la-parole-spontanée-à-des-fins-danalyse-linguistique-et-de-développement-de-systèmes-de-reconnaissance-automatique-de-la-parole&quot;&gt;Typologie de la parole spontanée à des fins d’analyse linguistique et de développement de systèmes de reconnaissance automatique de la parole&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://hal.archives-ouvertes.fr/hal-03713384&quot;&gt;https://hal.archives-ouvertes.fr/hal-03713384&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Solène Evain&lt;/em&gt; &lt;em&gt;(LIG) 🧑‍🎓, Solange Rossato, Benjamin Lecouteux, François Portet,&lt;/em&gt; JEP 2022&lt;/p&gt;
+
+&lt;p&gt;A retrouver dans les actes des JEP 2022: &lt;a href=&quot;https://jep2022.univ-nantes.fr/actes-des-jep2022/&quot;&gt;https://jep2022.univ-nantes.fr/actes-des-jep2022/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;qualitative-evaluation-of-language-model-rescoring-in-automatic-speech-recognition&quot;&gt;Qualitative Evaluation of Language Model Rescoring in Automatic Speech Recognition&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://hal.archives-ouvertes.fr/hal-03712735/&quot;&gt;https://hal.archives-ouvertes.fr/hal-03712735&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thibault Bañeras Roux (LS2N) 🧑‍🎓, Mickael Rouvier, Jane Wottawa, Richard Dufour,&lt;/em&gt; Interspeech 2022&lt;/p&gt;
+
+&lt;h3 id=&quot;end-to-end-dependency-parsing-of-spoken-french&quot;&gt;End-to-End Dependency Parsing of Spoken French&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://hal.archives-ouvertes.fr/hal-03713551/&quot;&gt;https://hal.archives-ouvertes.fr/hal-03713551/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Adrien Pupier (LIG) 🧑‍🎓, Maximin Coavoux, Benjamin Lecouteux, Jérôme Goulian&lt;/em&gt;, Interspeech 2022&lt;/p&gt;
+
+&lt;h1 id=&quot;les-jeunes-chercheurs-se-rencontrent&quot;&gt;🧳Les Jeunes Chercheurs se rencontrent&lt;/h1&gt;
+
+&lt;p&gt;N’hésitez pas à nous partager vos photos de rencontres entre jeunes chercheurs lors de diverses conférences ou journées d’études!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Nous contacter, nous rejoindre ou nous suivre:&lt;/strong&gt;
+📨 jcparole@gmail.com
+🌐 &lt;a href=&quot;https://jcparole.github.io/&quot;&gt;https://jcparole.github.io&lt;/a&gt; (← Vous y trouverez le lien du Discord pour les JC! 😇)&lt;/p&gt;
+
+&lt;p&gt;🐦 @Groupe_JCParole&lt;/p&gt;</content><author><name>{&quot;name&quot;=&gt;nil, &quot;email&quot;=&gt;nil, &quot;twitter&quot;=&gt;nil}</name></author><category term="newsletter" /><summary type="html">Cette newsletter mensuelle est une initiative du groupe JCeP (Jeunes Chercheurs en Parole). Elle a pour but de promouvoir l’activité du groupe et des jeunes chercheurs en parole francophones, mais aussi de partager les événements de la communauté Parole auxquels ils sont invités à participer (appels à communication, expérimentations…). Nous y rassemblons des informations trouvées sur notre serveur Discord et la liste Parole… mais pas que! Vous pouvez en effet nous partager vos actus directement à jcparole@gmail.com. Nous serons heureux de les relayer.</summary></entry></feed>
