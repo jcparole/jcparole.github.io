@@ -1,4 +1,9 @@
-# Newsletter n°2 - Nov. 2022
+---
+title: Newsletter n°2 - Novembre 2022
+categories:
+  - newsletter
+show_comments: true
+---
 
 *Cette newsletter mensuelle est une initiative du groupe JCeP (Jeunes Chercheurs en Parole). Elle a pour but de promouvoir l'activité du groupe et des jeunes chercheurs en parole francophones, mais aussi de partager les événements de la communauté Parole auxquels ils sont invités à participer (appels à communication, expérimentations...). Nous y rassemblons des informations trouvées sur notre serveur Discord et la liste Parole... mais pas que ! Vous pouvez en effet nous partager vos actus directement à [jcparole@gmail.com](mailto:jcparole@gmail.com). Nous serons heureux de les relayer.* 
 
@@ -48,7 +53,7 @@ Clément Le Moine et Nicolas Obin recherchent des participants pour une expérie
 
 # 📄 Appels à communication
 
-**********************************************************Les appels à communication sont classés par ordre croissant de date limite**********************************************************
+Les appels à communication sont classés par ordre croissant de date limite
 
 ### Advances in Quantitative Laryngology, Voice and Speech
 
