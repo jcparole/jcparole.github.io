@@ -195,7 +195,6 @@ Extrait de la description :
 
 📅 1 an à partir de Décembre 2022
 
-📨 CV, lettres de recommandation, résumé d’une page de recherche, au moins 3 publications, rapport de pré-soutenance, à envoyer à [fabien.ringeval@imag.fr](mailto:fabien.ringeval@imag.fr) et [francois.portet@imag.fr](mailto:francois.portet@imag.fr)
 
 ### [CDI Ingénieur] **Ingénieur en charge des Opérations du département Évaluation de l’Intelligence Artificielle**
 
